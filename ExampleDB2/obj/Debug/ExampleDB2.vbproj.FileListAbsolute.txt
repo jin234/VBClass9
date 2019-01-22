@@ -1,0 +1,11 @@
+D:\Coding\VB.NET\week 9\ExampleDB1\ExampleDB2\bin\Debug\ExampleDB2.exe.config
+D:\Coding\VB.NET\week 9\ExampleDB1\ExampleDB2\bin\Debug\ExampleDB2.exe
+D:\Coding\VB.NET\week 9\ExampleDB1\ExampleDB2\bin\Debug\ExampleDB2.pdb
+D:\Coding\VB.NET\week 9\ExampleDB1\ExampleDB2\bin\Debug\ExampleDB2.xml
+D:\Coding\VB.NET\week 9\ExampleDB1\ExampleDB2\obj\Debug\ExampleDB2.Form1.resources
+D:\Coding\VB.NET\week 9\ExampleDB1\ExampleDB2\obj\Debug\ExampleDB2.Resources.resources
+D:\Coding\VB.NET\week 9\ExampleDB1\ExampleDB2\obj\Debug\ExampleDB2.vbproj.GenerateResource.cache
+D:\Coding\VB.NET\week 9\ExampleDB1\ExampleDB2\obj\Debug\ExampleDB2.vbproj.CoreCompileInputs.cache
+D:\Coding\VB.NET\week 9\ExampleDB1\ExampleDB2\obj\Debug\ExampleDB2.exe
+D:\Coding\VB.NET\week 9\ExampleDB1\ExampleDB2\obj\Debug\ExampleDB2.xml
+D:\Coding\VB.NET\week 9\ExampleDB1\ExampleDB2\obj\Debug\ExampleDB2.pdb
