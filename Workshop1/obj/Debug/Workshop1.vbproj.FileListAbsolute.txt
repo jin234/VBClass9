@@ -1,0 +1,12 @@
+D:\58121003-6\VBClass9\Workshop1\bin\Debug\Workshop1.exe.config
+D:\58121003-6\VBClass9\Workshop1\bin\Debug\Workshop1.exe
+D:\58121003-6\VBClass9\Workshop1\bin\Debug\Workshop1.pdb
+D:\58121003-6\VBClass9\Workshop1\bin\Debug\Workshop1.xml
+D:\58121003-6\VBClass9\Workshop1\obj\Debug\Workshop1.vbprojResolveAssemblyReference.cache
+D:\58121003-6\VBClass9\Workshop1\obj\Debug\Workshop1.Form1.resources
+D:\58121003-6\VBClass9\Workshop1\obj\Debug\Workshop1.Resources.resources
+D:\58121003-6\VBClass9\Workshop1\obj\Debug\Workshop1.vbproj.GenerateResource.cache
+D:\58121003-6\VBClass9\Workshop1\obj\Debug\Workshop1.vbproj.CoreCompileInputs.cache
+D:\58121003-6\VBClass9\Workshop1\obj\Debug\Workshop1.exe
+D:\58121003-6\VBClass9\Workshop1\obj\Debug\Workshop1.xml
+D:\58121003-6\VBClass9\Workshop1\obj\Debug\Workshop1.pdb
