@@ -52,6 +52,7 @@ Partial Class Form1
         'ComboBox2
         '
         Me.ComboBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.ComboBox2.Enabled = False
         Me.ComboBox2.FormattingEnabled = True
         Me.ComboBox2.Location = New System.Drawing.Point(274, 51)
         Me.ComboBox2.Name = "ComboBox2"
@@ -69,11 +70,12 @@ Partial Class Form1
         '
         'Button1
         '
+        Me.Button1.Enabled = False
         Me.Button1.Location = New System.Drawing.Point(522, 15)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(114, 57)
         Me.Button1.TabIndex = 4
-        Me.Button1.Text = "Button1"
+        Me.Button1.Text = "ค้นหา"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'DataGridView1

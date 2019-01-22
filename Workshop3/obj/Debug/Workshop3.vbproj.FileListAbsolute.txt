@@ -1,0 +1,11 @@
+D:\58121003-6\VBClass9\Workshop3\bin\Debug\Workshop3.exe.config
+D:\58121003-6\VBClass9\Workshop3\bin\Debug\Workshop3.exe
+D:\58121003-6\VBClass9\Workshop3\bin\Debug\Workshop3.pdb
+D:\58121003-6\VBClass9\Workshop3\bin\Debug\Workshop3.xml
+D:\58121003-6\VBClass9\Workshop3\obj\Debug\Workshop3.Form1.resources
+D:\58121003-6\VBClass9\Workshop3\obj\Debug\Workshop3.Resources.resources
+D:\58121003-6\VBClass9\Workshop3\obj\Debug\Workshop3.vbproj.GenerateResource.cache
+D:\58121003-6\VBClass9\Workshop3\obj\Debug\Workshop3.vbproj.CoreCompileInputs.cache
+D:\58121003-6\VBClass9\Workshop3\obj\Debug\Workshop3.exe
+D:\58121003-6\VBClass9\Workshop3\obj\Debug\Workshop3.xml
+D:\58121003-6\VBClass9\Workshop3\obj\Debug\Workshop3.pdb

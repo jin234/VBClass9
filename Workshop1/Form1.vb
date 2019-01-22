@@ -24,6 +24,7 @@ Public Class Form1
         adapter.Fill(data, "Customers")
         Dim found As Boolean = False
         Dim txtid As String = TextBox1.Text
+
         If data.Tables("Customers").Rows.Count <> 0 Then
             For i = 0 To data.Tables("Customers").Rows.Count - 1
                 If data.Tables("Customers").Rows(i)(5) = txtid.ToUpper Then
