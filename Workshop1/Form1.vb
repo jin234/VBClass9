@@ -39,7 +39,11 @@ Public Class Form1
         If found = False Then
 
             MessageBox.Show(txtid & " not Found")
-
+            Label7.Text = "..."
+            Label8.Text = "..."
+            Label9.Text = "..."
+            Label10.Text = "..."
+            Label11.Text = "..."
         End If
         conn.Close()
     End Sub
